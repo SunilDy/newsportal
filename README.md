@@ -2,7 +2,7 @@
 
 ### Steps
 
-1. Download the zip file at https://dummy.com
+1. Download the zip file at https://github.com/SunilDy/newsportal
 2. Extract the zip file at a specified path.
 3. Then, move the folder into the path C:/xampp/htdocs
     - This is incase of Windows Operating system, incase of MacOS or Linux, paste/move the folder into the XAMPP installed folder → xampp/htdocs.
