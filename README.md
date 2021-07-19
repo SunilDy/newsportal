@@ -10,9 +10,9 @@
 5. Start Apache server and MySQL database.
 6. Then open MySQL administrator from the XAMPP GUI.
 7. Create a Database called "newsportal".
-8. Then import the .sql file from → C:/xampp/htdocs/portal/sqlfile/newsportal.sql
-9. Then open the browser and go to → [localhost/portal/newsportal](http://localhost/portal/newsportal) and enjoy
-10. In order to access the administrator panel, go to → localhost/portal/newsportal/admin
+8. Then import the .sql file from → C:/xampp/htdocs/your_moved_folder/data.sql
+9. Then open the browser and go to → [localhost/portal/newsportal](https://localhost/your_moved_folder) and enjoy
+10. In order to access the administrator panel, go to → https://localhost/your_moved_folder
     - Use the following credentials,
         - Username → admin
         - Password → Test@12345
